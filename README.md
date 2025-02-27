@@ -2,6 +2,14 @@
 
 ระบบเขตป้องกัน (Protection Zone) นี้พัฒนาด้วย JavaScript สำหรับ **Minecraft Bedrock Edition** โดยใช้ @minecraft/server และ @minecraft/server-ui API เพื่อให้ผู้เล่นสามารถสร้างและจัดการพื้นที่ส่วนตัวในโลก Minecraft ได้ ระบบนี้ช่วยให้ผู้เล่นสามารถควบคุมการเข้าถึงพื้นที่ของตัวเอง ป้องกันการบุกรุกจากผู้เล่นคนอื่น ๆ และมอบเครื่องมือให้แอดมินในการดูแลโลกได้อย่างง่ายดาย 🔒🌍
 
+## 📊 สถิติการเข้าชม
+
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/SolightzZ/Protection-Area-Addon)
+![GitHub all releases](https://img.shields.io/github/downloads/SolightzZ/Protection-Area-Addon/total)
+![GitHub License](https://img.shields.io/github/license/SolightzZ/Protection-Area-Addon)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSolightzZ%2FProtection-Area-Addon&count_bg=%2369D01A&title_bg=%23555555&icon=ello.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 ## 📜 ฟีเจอร์หลัก
 
 - **การป้องกันการบุกรุก:** ป้องกันการเข้าถึงพื้นที่ของผู้เล่นอื่น ๆ
