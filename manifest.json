@@ -1,0 +1,38 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Protection / SolightzZ",
+    "description": "By https://github.com/SolightzZ",
+    "min_engine_version": [1, 21, 50],
+    "uuid": "a900a2a1-8fa6-4e4d-919b-8f1be0689186",
+    "version": [1, 0, 3]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "13f2e303-4be9-4b86-9435-7c370c7d66b0",
+      "version": [1, 0, 0]
+    },
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "04d5dfc2-0aef-4f68-98e5-7659872fe6f8",
+      "entry": "scripts/main.js",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.18.0-beta"
+    },
+    {
+      "module_name": "@minecraft/server-ui",
+      "version": "1.4.0-beta"
+    },
+    {
+      "module_name": "@minecraft/server-gametest",
+      "version": "1.0.0-beta"
+    }
+  ]
+}
