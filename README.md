@@ -4,6 +4,12 @@ Protection Area Addon เป็นแอดออนที่พัฒนาด�
 
 ---
 
+<p align="center">
+    <img src="https://github.com/SolightzZ/Protection-Area-Addon/blob/main/pack_icon.png" alt="Title Image">
+</p>
+
+---
+
 ## 📊 สถิติการเข้าชม
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/SolightzZ/Protection-Area-Addon)
